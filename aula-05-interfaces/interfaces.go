@@ -1,8 +1,8 @@
 package main
 
 /*
-Interfaces are collections of method signatures
-A type "implements" an interface if it has all of the methods of the given interface defined on it
+	Interfaces are collections of method signatures
+	A type "implements" an interface if it has all of the methods of the given interface defined on it
 */
 
 import (
